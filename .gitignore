@@ -1,0 +1,4 @@
+*.db
+*.log
+dir_to_ignore/target
+dir_to_ignore/bin
