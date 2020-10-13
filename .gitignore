@@ -1,0 +1,4 @@
+*.db
+*.log
+dir_to_ignore/
+dir_to_ignore/
